@@ -1,10 +1,10 @@
 # About Me
-# Hi 👋 I'm Shrouk Wael
+# Hi , I'm Shrouk Wael
 
-🎓 Robotics & Artificial Intelligence Engineer  
-🤖 Embedded Systems & Robotics Developer  
-🧠 Machine Learning Practitioner  
-🚀 Building intelligent systems that bridge hardware and software
+ Robotics & Artificial Intelligence Engineer  
+ Embedded Systems & Robotics Developer  
+ Machine Learning Practitioner  
+ Building intelligent systems that bridge hardware and software
 
 ## 👩‍💻 Professional Summary
 
@@ -14,16 +14,16 @@ My expertise lies in integrating hardware and software to build real-world embed
 
 I focus on building efficient, scalable, and functional systems that solve real engineering problems.
 
-## 🛠 Core Competencies
+##  Core Competencies
 
-### 💻 Programming & Development
+###  Programming & Development
 - C / C++
 - Python
 - Java
 - Embedded C
 - Object-Oriented Programming (OOP)
 
-### 🔌 Embedded & Robotics Engineering
+###  Embedded & Robotics Engineering
 - Microcontroller-Based Systems (Arduino)
 - Sensors & Actuators Integration
 - Hardware–Software Interfacing
@@ -31,55 +31,55 @@ I focus on building efficient, scalable, and functional systems that solve real 
 - System Debugging & Optimization
 - Circuit Implementation & Testing
 
-### 🤖 Machine Learning
+###  Machine Learning
 - Data Preprocessing & Cleaning
 - Feature Engineering
 - Supervised Learning Models
 - Model Evaluation & Performance Analysis
 
-### 🧰 Tools & Environment
+###  Tools & Environment
 - Git & GitHub
 - MATLAB
 - VS Code
 - Technical Documentation & System Design
 
-## 🚀 Featured Engineering Projects
+## Featured Engineering Projects
 
-### 🏠 Smart Home Automation System
+###  Smart Home Automation System
 Engineered a complete smart home solution integrating multiple sensors and embedded controllers to automate lighting and environmental control systems.
 
-### 🌱 Intelligent Automatic Irrigation System
+### Intelligent Automatic Irrigation System
 Designed and implemented a soil moisture–based irrigation system with automated decision-making logic to optimize water consumption.
 
-### 🤖 Robotics Systems Development
+###  Robotics Systems Development
 Built robotics systems combining embedded hardware, control algorithms, and real-time software execution.
 
-### ❤️ Machine Learning – Heart Disease Prediction
+###  Machine Learning projects
 Developed and evaluated a supervised learning model for medical prediction using structured datasets and performance metrics.
 
-## 📌 Current Focus
+##  Current Focus
 - Advanced Embedded Systems Design  
 - Robotics Control Systems  
 - Applied Machine Learning in Intelligent Systems  
 - System Optimization & Performance Enhancement  
 
-## 📈 Engineering Strengths
+##  Engineering Strengths
 ✔ Hardware & Software Integration  
 ✔ End-to-End System Development  
 ✔ Analytical Problem Solving  
 ✔ Strong Debugging & Testing Skills  
 ✔ Continuous Learning & Technical Growth  
 
-## 🌐 Professional Profile
+##  Professional Profile
 🔗 LinkedIn: [Shrouk Wael](https://www.linkedin.com/in/shrouk-wael-0aa4b52b3/)  
-📫 Email: shrouk.wael@email.com  
+ Email: shrouk.wael@email.com  
 
-## 🏆 Badges
+##  Badges
 ![C Badge](https://img.shields.io/badge/C-Expert-blue)  
 ![Python Badge](https://img.shields.io/badge/Python-Advanced-yellow)  
 ![Embedded Badge](https://img.shields.io/badge/Embedded-Intermediate-green)
 
-## 🧭 Open to Opportunities
+##  Open to Opportunities
 I am open to internships and entry-level roles in **Embedded Systems, Robotics, and AI engineering**.  
 Currently seeking opportunities to apply my skills in real-world intelligent system projects.
 
